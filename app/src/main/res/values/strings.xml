@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Activity</string>
+    <string name="tvFirst">First Activity</string>
+    <string name="etName">Enter Your Name</string>
+    <string name="etRoll">Enter Your Roll No.</string>
+    <string name="etTemp">Enter Temperature</string>
+    <string name="btnMove">Move</string>
+    <string name="tvSecond">Second Activity</string>
+</resources>
